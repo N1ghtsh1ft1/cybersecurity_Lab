@@ -1,10 +1,16 @@
 # Cybersecurity Lab
 
-A personal cybersecurity lab and study repo — notes, exercises, scripts, and configs used while learning and practicing security concepts.
+Personal cybersecurity lab and study repo — hands-on lab work, study notes, and tooling used while working toward a SOC Analyst / Incident Handler Tier 1 role, alongside CompTIA Security+ (SY0-701), Network+, and CCNA study.
+
+## Lab environment
+
+Kali Linux as the primary lab machine, with Debian as a secondary target machine. Wazuh for SIEM and log ingestion, Wireshark and nmap for traffic and scanning work, and Cisco Packet Tracer for network topology practice.
 
 ## Contents
 
-- [`docs/`](docs/README.md) — study notes and reference material, organized by topic/certification track
+[docs/security-plus/](docs/security-plus/README.md) — Security+ (SY0-701) study notes, organized by domain with exam weights and self-check questions.
+
+[docs/setup/](docs/setup/README.md) — environment and tooling setup notes.
 
 ## Scope
 
